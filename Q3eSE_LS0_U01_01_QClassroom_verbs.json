@@ -1,0 +1,33 @@
+
+
+{
+  "title": "q3ese-ls0-Unit-1-Audio",
+  "sentences": [
+    {
+      "speaker": "Q3eSE_LS0_U01_01_QClassroom",
+      "keyWord": "",
+      "definition": "",
+      "english": "I like swimming.",
+      "arabic": "أحب السباحة",
+      "refer_to": "Page 3",
+      "back_to": "",
+      "audio": "",
+      "audioQuestion": "Do you like hiking?",
+      "answer": "Yes, I like hiking.",
+      "Image": ""
+    },
+    {
+      "speaker": "Q3eSE_LS0_U01_02_Listening_ActivitiesA_B_F",
+      "keyWord": "",
+      "definition": "",
+      "english": "I don't like hiking.",
+      "arabic": "أنا لا أحب التنزه",
+      "refer_to": "Pages 4,5,6,7,8",
+      "back_to": "",
+      "audio": "assets/audio/page_14_c_1.mp3",
+      "audioQuestion": "Do you like hiking?",
+      "answer": "No, I don't like hiking.",
+      "Image": ""
+    }
+          ]
+}
